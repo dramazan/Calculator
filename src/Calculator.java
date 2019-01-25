@@ -13,7 +13,7 @@ public class Calculator {
     public static double multiply(double num1, double num2){
         return num1 * num2;
     }
-    //Local: This is also a very useful method.
+    //this is also a very useful method.
     public static double divide(double n1, double n2){
         double result = n1 / n2;
         return result;
